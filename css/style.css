@@ -1,0 +1,51 @@
+body{
+	background-color:#8a8b8c; 
+	color: white;
+}
+.companyName{
+padding: 20px;
+}
+.btn{
+	border: solid 1px;
+	background: #f46842;
+}
+.welcome{
+	height: 250px;
+	background: #ce2121;
+}
+.msg{
+	margin-top: 100px;
+}
+.dcards{
+	background: white;
+
+}
+.cards{
+	background: #d1c8c8;
+	padding: 20px;
+	border: 1px solid;
+}
+.footer{
+	background: #7c2525;
+	padding: 50px;
+}
+.navleft{
+	padding: 20px;
+	border-right: 1px solid black;
+}
+.nav-item{
+		padding: 2px;}
+.centex{
+	text-align: center;
+	padding: 10px;
+}
+.center{
+	background: white;
+	color: black;
+}	
+.img{
+	padding: 10px;
+	height: 90px;
+}	
+.table{
+	margin-top: 10px;}
